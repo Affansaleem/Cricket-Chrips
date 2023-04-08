@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cricket Chrips</string>
+    <string name="text_view_first">Do you known you can determine temperature outside by counting the number of chrips the cricket makes? Just found the number of chrips one makes in 25 seconds and place in number in the box below:</string>
+    <string name="enter_text">Number of chrips in 25 sec</string>
+    <string name="thermometer">Thermometer</string>
+    <string name="button">Calculate Temperature</string>
+</resources>
